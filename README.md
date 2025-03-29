@@ -35,13 +35,7 @@ It features a menu-driven CLI interface for easy navigation of daily business op
 
 ### 1. Compile the project
 
-If you're using GCC:
-
 ```bash
-gcc -o final_project_coffee_shop.exe main.c customers.c employees.c items.c logger.c menu.c
-
-In Windows: 
-
 gcc -o final_project_coffee_shop.exe main.c customers.c employees.c items.c logger.c menu.c
 
 To run the program:
